@@ -10,7 +10,7 @@
 - [스몰빅클래스](https://smallbigclass.com/) 교육 프로그램 및 OTT 영상을 제공하는 사이트 입니다.
 - [D.Nav](https://class.dnav.co.kr) 아이 리더십 교육 프로그램 진행 사이트 입니다.
 - [Jazz People](https://jazzpeople.co.kr/) 재즈클럽 안내사이트
-- [Epson Onnovation Challenge](https://techit.education/event/epson) 3등 장려상 수상 / 250만원 획득
+- [Epson Onnovation Challenge](https://techit.education/event/epson)    3등 장려상 수상 / 250만원 획득
 
 
 
